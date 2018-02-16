@@ -1,3 +1,5 @@
+// 一个实现了and运算的感知器
+
 class Perceptron(object):
     def __init__(self, input_num, activator):
         self.activator = activator
